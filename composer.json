@@ -14,7 +14,7 @@
   "require": {
     "php": ">=5.6",
     "ext-mbstring": "*",
-    "laravel/framework": "5.4.* || 5.5.* || 5.6.*",
+    "laravel/framework": "5.4.* || 5.5.* || 5.6.*"
   },
   "require-dev": {
     "ext-sqlite3": "*",
